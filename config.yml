@@ -1,0 +1,13 @@
+# Notion-specific config
+notion:
+    user:
+    api_token:
+
+# Todoist-specific config
+todoist:
+    api_token:
+
+# Configure migration of a to-do list on a Notion page to tasks in a Todoist project
+migration:
+    - notion:
+      todoist:
