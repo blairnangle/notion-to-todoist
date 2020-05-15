@@ -80,7 +80,3 @@ To run the script (the virtual environment needs to have been activated using [a
 ```bash
 $ ./execute.py
 ```
-
-## License
-
-The scripts and documentation in this project are released under the [Apache License, Version 2.0](./LICENSE).
